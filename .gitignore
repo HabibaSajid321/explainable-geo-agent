@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+audit_log.jsonl
+spatial_trust_map.html
+{agents,models,data}/
